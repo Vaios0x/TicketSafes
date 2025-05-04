@@ -1,5 +1,5 @@
 # TicketSafes
-<<<<<<< HEAD
+HEAD
 NTF Ticketing Marketplace
 =======
 
